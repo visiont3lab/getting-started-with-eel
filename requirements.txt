@@ -10,3 +10,4 @@ whichcraft==0.5.2
 pyqrcode==1.2.1
 PyInstaller==3.6
 pypng==0.0.20
+pywin32
