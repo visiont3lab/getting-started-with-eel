@@ -3,7 +3,7 @@ gevent==1.5a4
 bottle==0.12.13
 bottle-websocket==0.2.9
 git+https://github.com/brumar/Eel.git@transcryptsupport#egg=Eel
-future==0.17.1
+future==0.18.3
 gevent-websocket==0.10.1
 greenlet==0.4.15
 whichcraft==0.5.2
