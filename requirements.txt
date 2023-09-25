@@ -1,5 +1,5 @@
 atomicwrites==1.2.1
-gevent==1.5a4
+gevent==23.9.1
 bottle==0.12.13
 bottle-websocket==0.2.9
 git+https://github.com/brumar/Eel.git@transcryptsupport#egg=Eel
